@@ -19,7 +19,7 @@ let Navigate = useNavigate();
         
         e.preventDefault();
 
-        const response = await fetch('http://localhost:5000/api/auth/createuser', {
+        const response = await fetch('https://backend-8x0t.onrender.com/api/auth/createuser', {
             
             method: "POST",
             headers: {
