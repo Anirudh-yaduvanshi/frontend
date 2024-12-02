@@ -68,7 +68,7 @@ Inotebook is more than just a note-taking app; it's a powerful tool for personal
  
 
   <h4>If you want to contact us, please think again me gali b dedu kbi kbi:- </h4>
-  <a href="tel:+91701713892"><i className='bx bda call bx-phone-call' ></i> </a>
+  <a href="tel:+917017138924"><i className='bx bda call bx-phone-call' ></i> </a>
   <a href="mailto:ydvanirudh@yahoo.com"><i className='bx bda gmail bxl-gmail' ></i> </a>
   <a href="https://wa.me/+917017138924"> <i className='bx bda whatsapp bxl-whatsapp'></i></a>
 
